@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+}
+.course{
+    border-right: 1px solid rebeccapurple;
+    width:70%;
+    margin-left:20px;
+    margin-right:5px;
+}

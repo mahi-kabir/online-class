@@ -1,0 +1,39 @@
+.container{
+    display: flex;
+    border-bottom:2px solid lightskyblue;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    padding-bottom: 5px;
+    
+}
+
+.container img{
+    height:100px;
+    display:flex
+}
+
+.name{
+    color:mediumblue;
+    font-weight: 200px;
+    cursor: pointer;
+    margin-left: 10px;
+    cursor: pointer  
+}
+
+.main-button{
+    background-color: indigo;
+    color:whitesmoke;
+    border-radius: 7px;
+    height:40px;
+    cursor: pointer 
+}
+
+.instructor{
+    color:red;
+    margin-left:9px ;
+}
+
+.price{
+    color: black;
+    margin-left:9px ;
+}
